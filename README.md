@@ -79,4 +79,4 @@ This section states that the Realtime Sign Language Detection Using LSTM Model p
 
 ## Contact
 
-For any questions or inquiries, feel free to contact me at avhishe.adhikary11@gmail.com.
+For any questions or inquiries, feel free to contact me.
